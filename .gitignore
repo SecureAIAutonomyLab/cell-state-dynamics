@@ -3,6 +3,11 @@
 *.avi
 *.mp4
 
+# Image files
+*.tiff
+*.TIFF
+*.tif
+
 # Audio files
 *.wav
 *.mp3
